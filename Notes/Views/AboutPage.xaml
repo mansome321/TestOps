@@ -5,11 +5,5 @@
              Title="About">
     <!-- Layout children in two rows -->
     <Grid RowDefinitions="Auto,*">
-        <Image Source="xamarin_logo.png"
-               BackgroundColor="{StaticResource AppPrimaryColor}"
-               Opacity="0.85"
-               VerticalOptions="Center" 
-               HeightRequest="64" />
-        <!-- Layout children vertically -->
     </Grid>
 </ContentPage>
