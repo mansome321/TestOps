@@ -12,12 +12,12 @@ public class GlobalVariable {
     /**
      * <p></p>
      */
-    public static Object APP_ID_ANDROID
+    public static Object APP_ID
      
     /**
      * <p></p>
      */
-    public static Object APP_ID_IOS
+    public static Object TC_1_ErrorMessage
      
 
     static {
@@ -26,8 +26,8 @@ public class GlobalVariable {
 			selectedVariables += TestCaseMain.getGlobalVariables(RunConfiguration.getExecutionProfile())
             selectedVariables += RunConfiguration.getOverridingParameters()
     
-            APP_ID_ANDROID = selectedVariables['APP_ID_ANDROID']
-            APP_ID_IOS = selectedVariables['APP_ID_IOS']
+            APP_ID = selectedVariables['APP_ID']
+            TC_1_ErrorMessage = selectedVariables['TC_1_ErrorMessage']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)

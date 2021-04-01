@@ -7,11 +7,11 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'com.companyname.notes'</initValue>
-      <name>APP_ID_ANDROID</name>
+      <name>APP_ID</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'com.companyname.Notes'</initValue>
-      <name>APP_ID_IOS</name>
+      <initValue>'Sorry. Your investment amount does not meet the minimum requirement.'</initValue>
+      <name>TC_1_ErrorMessage</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

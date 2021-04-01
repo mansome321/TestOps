@@ -151,6 +151,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="D:/Katalon/Katalon_Studio_Windows_64-7.9.1/Katalon_Studio_Windows_64-7.9.1/configuration/org.eclipse.osgi/26/0/.cp/resources/applitools/katalon-studio-applitools-plugin.jar"/>
+	<classpathentry kind="lib" path="D:/Katalon/Katalon_Studio_Windows_64-7.9.1/Katalon_Studio_Windows_64-7.9.1/configuration/plugin/install/195322/1.0.3/katalon-studio-microsoftteam-keywords-plugin.jar"/>
 	<classpathentry kind="lib" path="D:/Katalon/Katalon_Studio_Windows_64-7.9.1/Katalon_Studio_Windows_64-7.9.1/configuration/org.eclipse.osgi/26/0/.cp/resources/basic-report/katalon-studio-report-plugin.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
