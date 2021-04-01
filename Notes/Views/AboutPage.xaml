@@ -18,7 +18,7 @@
                 <Label.FormattedText>
                     <FormattedString>
                         <FormattedString.Spans>
-                            <Span Text="Notes" 
+                            <Span Text="Notes Test auto_deploy 787878" 
                                   FontAttributes="Bold" 
                                   FontSize="22" />
                             <Span Text=" v1.0" />
